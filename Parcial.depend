@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1621015732 source:c:\users\toby\desktop\parcial\parcial\getters.c
+	"getters.h"
+
+1621015732 c:\users\toby\desktop\parcial\parcial\getters.h
+	<stdio.h>
+	<string.h>
+
+1621019861 source:c:\users\toby\desktop\parcial\parcial\juego.c
+	"juego.h"
+
+1621019703 c:\users\toby\desktop\parcial\parcial\juego.h
+	<stdio.h>
+	<string.h>
+	"categoria.h"
+	"getters.h"
+
+1621018691 source:c:\users\toby\desktop\parcial\parcial\cliente.c
+	"cliente.h"
+
+1621021216 c:\users\toby\desktop\parcial\parcial\cliente.h
+	"getters.h"
+	<stdio.h>
+	<string.h>
+
+1621020758 source:c:\users\toby\desktop\parcial\parcial\alquileres.c
+	"alquileres.h"
+
+1621020768 c:\users\toby\desktop\parcial\parcial\alquileres.h
+	"fecha.h"
+	"juego.h"
+	"cliente.h"
+	"categoria.h"
+	"getters.h"
+	<stdio.h>
+	<string.h>
+
+1621015732 c:\users\toby\desktop\parcial\parcial\fecha.h
+	<stdio.h>
+	<string.h>
+
+1621019095 c:\users\toby\desktop\parcial\parcial\categoria.h
+	<stdio.h>
+	<string.h>
+
+1621021216 source:c:\users\toby\desktop\parcial\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alquileres.h"
+
+1621015990 source:c:\users\toby\desktop\parcial\parcial\categoria.c
+	"categoria.h"
+
